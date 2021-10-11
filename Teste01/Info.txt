@@ -1,1 +1,2 @@
-Esse é o ambiente de teste git
+Esse é o ambiente de teste git.
+A pasta foi mudada de local.
