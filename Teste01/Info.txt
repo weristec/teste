@@ -1,2 +1,3 @@
 Esse é o ambiente de teste git.
 A pasta foi mudada de local.
+Este arquivo só será exibido na master.
